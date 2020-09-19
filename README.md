@@ -1,2 +1,2 @@
 # simpleProject
-A simple project for auto Input ip address using shell script
+A simple shell script for auto Input ip address 
